@@ -103,12 +103,12 @@ Frequently used non-interesting commands (like cursor movements) should be put h
   "Customization for the command log.")
 
 (defface command-log-key
-  '((t (:foreground "cyan")))
+  '((t (:foreground "purple")))
   "Face for keys in command log."
   :group 'command-log)
 
 (defface command-log-command
-  '((t (:foreground "pale green")))
+  '((t (:foreground "black")))
   "Face for commands in command log."
   :group 'command-log)
 
